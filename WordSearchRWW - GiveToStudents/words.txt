@@ -1,0 +1,9 @@
+array
+boston
+celtics
+for
+integer
+patriots
+redsox
+variable
+while
